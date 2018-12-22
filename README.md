@@ -12,7 +12,7 @@
 
 ## 需要先下载预训练词向量
 
-预训练词向量下载地址：https://github.com/xgli/word2vec-api
+预训练词向量下载地址：https://nlp.stanford.edu/projects/glove/
 
 我用的是400,000个词汇的300维Glove词向量。下载解压后放在data文件夹下。
 
